@@ -1,0 +1,5 @@
+:set smooth-scrolling
+:set download-path=~/Downloads
+:set home-page=www.google.com
+:shortcut-add g=https://www.google.com/search?q=$0
+:shortcut-default g
