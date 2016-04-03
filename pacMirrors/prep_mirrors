@@ -1,0 +1,12 @@
+#!/usr/bin/gawk -f
+#Author: Max Gambee
+#This takes the commented mirrorlist.pacnew file and ucomments and ouputs
+#to stdout all of the Server = http... lines to stdout
+
+#BEGIN{
+#	FS="";
+#}
+
+{ 	if(match($0, /Server.*arch/))
+		printf("%s\n", substr($i, RSTART, RLENGTH));
+}

@@ -1,0 +1,562 @@
+#RANK: 6.825
+Server = http://www.gtlib.gatech.edu/pub/archlinux/$repo/os/$arch
+#RANK: 6.636
+Server = http://mirror.archlinux.no/$repo/os/$arch
+#RANK: 5.929
+Server = http://run.hit.edu.cn/archlinux/$repo/os/$arch
+#RANK: 5.829
+Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+#RANK: 5.422
+Server = http://mirrors.hust.edu.cn/archlinux/$repo/os/$arch
+#RANK: 5.297
+Server = http://suro.ubaya.ac.id/archlinux/$repo/os/$arch
+#RANK: 5.070
+Server = http://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
+#RANK: 4.501
+Server = http://mirror.nus.edu.sg/archlinux/$repo/os/$arch
+#RANK: 4.257
+Server = http://sunsite.rediris.es/mirror/archlinux/$repo/os/$arch
+#RANK: 4.167
+Server = http://mirror.rol.ru/archlinux/$repo/os/$arch
+#RANK: 3.785
+Server = http://ftp.iitm.ac.in/archlinux/$repo/os/$arch
+#RANK: 3.545
+Server = http://archlinux.cs.nctu.edu.tw/$repo/os/$arch
+#RANK: 3.363
+Server = http://repo.sadjad.ac.ir/arch/$repo/os/$arch
+#RANK: 3.336
+Server = http://mirrors.myaegean.gr/linux/archlinux/$repo/os/$arch
+#RANK: 3.260
+Server = http://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
+#RANK: 2.962
+Server = http://mirror.neolabs.kz/archlinux/$repo/os/$arch
+#RANK: 2.920
+Server = http://mirror.adminbannok.com/archlinux/$repo/os/$arch
+#RANK: 2.865
+Server = http://mirror.cse.iitk.ac.in/archlinux/$repo/os/$arch
+#RANK: 2.862
+Server = http://mirror.archlinux.ro/archlinux/$repo/os/$arch
+#RANK: 2.776
+Server = http://archlinux.pop-es.rnp.br/$repo/os/$arch
+#RANK: 2.764
+Server = http://foss.aueb.gr/mirrors/linux/archlinux/$repo/os/$arch
+#RANK: 2.762
+Server = http://mirror.isoc.org.il/pub/archlinux/$repo/os/$arch
+#RANK: 2.747
+Server = http://mirror.devilzc0de.org/archlinux/$repo/os/$arch
+#RANK: 2.747
+Server = http://mirror.devilzc0de.org/archlinux/$repo/os/$arch
+#RANK: 2.733
+Server = http://archlinux.nautile.nc/archlinux/$repo/os/$arch
+#RANK: 2.695
+Server = http://mirror.lagoon.nc/pub/archlinux/$repo/os/$arch
+#RANK: 2.680
+Server = http://archlinux.iskon.hr/$repo/os/$arch
+#RANK: 2.633
+Server = http://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
+#RANK: 2.631
+Server = http://ftp.wa.co.za/pub/archlinux/$repo/os/$arch
+#RANK: 2.627
+Server = http://mirror.t-home.mk/archlinux/$repo/os/$arch
+#RANK: 2.609
+Server = http://mirror.telepoint.bg/archlinux/$repo/os/$arch
+#RANK: 2.569
+Server = http://archlinux.mirrors.linux.ro/$repo/os/$arch
+#RANK: 2.565
+Server = http://archlinux.mirrors.ovh.net/archlinux/$repo/os/$arch
+#RANK: 2.555
+Server = http://shadow.ind.ntou.edu.tw/archlinux/$repo/os/$arch
+#RANK: 2.548
+Server = http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/$repo/os/$arch
+#RANK: 2.469
+Server = http://mirror.wbs.co.za/archlinux/$repo/os/$arch
+#RANK: 2.462
+Server = http://mirror.f4st.host/archlinux/$repo/os/$arch
+#RANK: 2.339
+Server = http://ftp.portlane.com/pub/os/linux/archlinux/$repo/os/$arch
+#RANK: 2.307
+Server = http://ftp.ntua.gr/pub/linux/archlinux/$repo/os/$arch
+#RANK: 2.234
+Server = http://mirror.compojoom.com/archlinux/$repo/os/$arch
+#RANK: 2.163
+Server = http://archlinux.surlyjake.com/archlinux/$repo/os/$arch
+#RANK: 2.155
+Server = http://download.nus.edu.sg/mirror/arch/$repo/os/$arch
+#RANK: 2.151
+Server = https://mirror.compojoom.com/archlinux/$repo/os/$arch
+#RANK: 2.126
+Server = http://mirrors.advancedhosters.com/archlinux/$repo/os/$arch
+#RANK: 2.121
+Server = http://mirror.us.leaseweb.net/archlinux/$repo/os/$arch
+#RANK: 2.097
+Server = http://ftp.tu-chemnitz.de/pub/linux/archlinux/$repo/os/$arch
+#RANK: 2.085
+Server = http://mirror.umd.edu/archlinux/$repo/os/$arch
+#RANK: 2.070
+Server = http://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch
+#RANK: 2.037
+Server = http://mirrors.gigenet.com/archlinux/$repo/os/$arch
+#RANK: 2.037
+Server = http://mirrors.gigenet.com/archlinux/$repo/os/$arch
+#RANK: 2.036
+Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
+#RANK: 1.997
+Server = http://archlinux-za.mirror.host1plus.com/$repo/os/$arch
+#RANK: 1.983
+Server = https://foss.aueb.gr/mirrors/linux/archlinux/$repo/os/$arch
+#RANK: 1.970
+Server = https://arch-mirror.wtako.net/$repo/os/$arch
+#RANK: 1.917
+Server = http://mirror.bjtu.edu.cn/archlinux/$repo/os/$arch
+#RANK: 1.875
+Server = https://mirrors.nix.org.ua/linux/archlinux/$repo/os/$arch
+#RANK: 1.865
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+#RANK: 1.864
+Server = http://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
+#RANK: 1.861
+Server = http://archlinux.c3sl.ufpr.br/$repo/os/$arch
+#RANK: 1.858
+Server = http://pet.inf.ufsc.br/mirrors/archlinux/$repo/os/$arch
+#RANK: 1.825
+Server = http://mirrors.opencas.cn/archlinux/$repo/os/$arch
+#RANK: 1.823
+Server = http://archlinux.koyanet.lv/archlinux/$repo/os/$arch
+#RANK: 1.818
+Server = http://archlinux.dcc.fc.up.pt/$repo/os/$arch
+#RANK: 1.794
+Server = http://ftp.linux.org.tr/archlinux/$repo/os/$arch
+#RANK: 1.787
+Server = http://ftp.cc.uoc.gr/mirrors/linux/archlinux/$repo/os/$arch
+#RANK: 1.782
+Server = http://osl.ugr.es/archlinux/$repo/os/$arch
+#RANK: 1.781
+Server = https://mirror.wormhole.eu/archlinux/$repo/os/$arch
+#RANK: 1.778
+Server = http://mirror-fpt-telecom.fpt.net/archlinux/$repo/os/$arch
+#RANK: 1.770
+Server = http://ftp.otenet.gr/linux/archlinux/$repo/os/$arch
+#RANK: 1.759
+Server = http://www.lasca.ic.unicamp.br/pub/archlinux/$repo/os/$arch
+#RANK: 1.755
+Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
+#RANK: 1.726
+Server = http://ftp.iinet.net.au/pub/archlinux/$repo/os/$arch
+#RANK: 1.725
+Server = http://mirrors.atviras.lt/archlinux/$repo/os/$arch
+#RANK: 1.721
+Server = http://mirror.euserv.net/linux/archlinux/$repo/os/$arch
+#RANK: 1.718
+Server = http://archlinux.bln-ua.net/$repo/os/$arch
+#RANK: 1.706
+Server = http://arch.serverspace.co.uk/arch/$repo/os/$arch
+#RANK: 1.693
+Server = http://ftp.kaist.ac.kr/ArchLinux/$repo/os/$arch
+#RANK: 1.691
+Server = http://archlinux.akmc.lt/$repo/os/$arch
+#RANK: 1.684
+Server = http://linorg.usp.br/archlinux/$repo/os/$arch
+#RANK: 1.673
+Server = https://mirror.i3d.net/pub/archlinux/$repo/os/$arch
+#RANK: 1.671
+Server = http://archlinux.uib.no/$repo/os/$arch
+#RANK: 1.670
+Server = https://archlinux.mirror.pkern.at/$repo/os/$arch
+#RANK: 1.668
+Server = http://mirrors.dotsrc.org/archlinux/$repo/os/$arch
+#RANK: 1.661
+Server = https://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+#RANK: 1.659
+Server = http://archlinux.mirror.dkm.cz/pub/archlinux/$repo/os/$arch
+#RANK: 1.638
+Server = http://mirror.neuf.no/archlinux/$repo/os/$arch
+#RANK: 1.631
+Server = http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/$repo/os/$arch
+#RANK: 1.626
+Server = https://www.mailtunnel.eu/archlinux/$repo/os/$arch
+#RANK: 1.622
+Server = https://arch.32g.eu/$repo/os/$arch
+#RANK: 1.613
+Server = https://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
+#RANK: 1.602
+Server = http://mirror.de.leaseweb.net/archlinux/$repo/os/$arch
+#RANK: 1.595
+Server = http://tux.rainside.sk/archlinux/$repo/os/$arch
+#RANK: 1.594
+Server = http://mir.art-software.fr/arch/$repo/os/$arch
+#RANK: 1.588
+Server = http://mirrors.m247.ro/archlinux/$repo/os/$arch
+#RANK: 1.583
+Server = http://linux.rz.rub.de/archlinux/$repo/os/$arch
+#RANK: 1.575
+Server = http://mirror.nl.leaseweb.net/archlinux/$repo/os/$arch
+#RANK: 1.572
+Server = http://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
+#RANK: 1.570
+Server = http://artfiles.org/archlinux.org/$repo/os/$arch
+#RANK: 1.566
+Server = http://arch.midov.pl/arch/$repo/os/$arch
+#RANK: 1.565
+Server = http://mirror.selfnet.de/archlinux/$repo/os/$arch
+#RANK: 1.558
+Server = http://ftp.yzu.edu.tw/Linux/archlinux/$repo/os/$arch
+#RANK: 1.557
+Server = http://ftp.vectranet.pl/archlinux/$repo/os/$arch
+#RANK: 1.557
+Server = http://ftp.vectranet.pl/archlinux/$repo/os/$arch
+#RANK: 1.556
+Server = http://mirrors.prometeus.net/archlinux/$repo/os/$arch
+#RANK: 1.549
+Server = http://arch.nimukaito.net/$repo/os/$arch
+#RANK: 1.548
+Server = http://mirror.xnet.co.nz/pub/archlinux/$repo/os/$arch
+#RANK: 1.547
+Server = https://mirror.system.is/arch/$repo/os/$arch
+#RANK: 1.547
+Server = https://mirror.system.is/arch/$repo/os/$arch
+#RANK: 1.541
+Server = http://gluttony.sin.cvut.cz/arch/$repo/os/$arch
+#RANK: 1.534
+Server = http://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
+#RANK: 1.532
+Server = http://archlinux.puzzle.ch/$repo/os/$arch
+#RANK: 1.525
+Server = http://mirror.uta.edu.ec/archlinux/$repo/os/$arch
+#RANK: 1.525
+Server = http://mirror.uta.edu.ec/archlinux/$repo/os/$arch
+#RANK: 1.518
+Server = https://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
+#RANK: 1.515
+Server = http://mirror.tyborek.pl/arch/$repo/os/$arch
+#RANK: 1.512
+Server = http://mirror.united-gameserver.de/archlinux/$repo/os/$arch
+#RANK: 1.511
+Server = https://archlinux.cyborg-connect.de/$repo/os/$arch
+#RANK: 1.502
+Server = http://archlinux.openlabto.org/archlinux/$repo/os/$arch
+#RANK: 1.490
+Server = http://mirror.aarnet.edu.au/pub/archlinux/$repo/os/$arch
+#RANK: 1.487
+Server = http://archlinux.polymorf.fr/$repo/os/$arch
+#RANK: 1.483
+Server = http://ftp.sh.cvut.cz/arch/$repo/os/$arch
+#RANK: 1.478
+Server = https://archlinux.honkgong.info/$repo/os/$arch
+#RANK: 1.477
+Server = http://mirror.internode.on.net/pub/archlinux/$repo/os/$arch
+#RANK: 1.471
+Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+#RANK: 1.469
+Server = https://ftp.fau.de/archlinux/$repo/os/$arch
+#RANK: 1.468
+Server = http://ftp.tuxdroid.org/archlinux/$repo/os/$arch
+#RANK: 1.468
+Server = http://ftp.tuxdroid.org/archlinux/$repo/os/$arch
+#RANK: 1.467
+Server = http://mirror.archlinux.ikoula.com/archlinux/$repo/os/$arch
+#RANK: 1.464
+Server = http://mirror.archlinux.cl/$repo/os/$arch
+#RANK: 1.461
+Server = https://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
+#RANK: 1.461
+Server = https://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
+#RANK: 1.459
+Server = http://archlinux.vi-di.fr/$repo/os/$arch
+#RANK: 1.455
+Server = http://mirror.bitjungle.info/archlinux/$repo/os/$arch
+#RANK: 1.455
+Server = http://mirror.bitjungle.info/archlinux/$repo/os/$arch
+#RANK: 1.449
+Server = http://mirror.lastmikoi.net/archlinux/$repo/os/$arch
+#RANK: 1.433
+Server = http://mirror.edatel.net.co/archlinux/$repo/os/$arch
+#RANK: 1.431
+Server = http://mirror.rise.ph/archlinux/$repo/os/$arch
+#RANK: 1.430
+Server = http://mirrors.nix.org.ua/linux/archlinux/$repo/os/$arch
+#RANK: 1.428
+Server = http://ftp.u-strasbg.fr/linux/distributions/archlinux/$repo/os/$arch
+#RANK: 1.424
+Server = http://archlinux.uberglobalmirror.com/$repo/os/$arch
+#RANK: 1.414
+Server = https://k42.ch/mirror/archlinux/$repo/os/$arch
+#RANK: 1.413
+Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+#RANK: 1.411
+Server = https://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
+#RANK: 1.411
+Server = https://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
+#RANK: 1.408
+Server = http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
+#RANK: 1.398
+Server = http://mirror.pmf.kg.ac.rs/archlinux/$repo/os/$arch
+#RANK: 1.398
+Server = http://mirror.pmf.kg.ac.rs/archlinux/$repo/os/$arch
+#RANK: 1.391
+Server = https://ftp.sh.cvut.cz/arch/$repo/os/$arch
+#RANK: 1.380
+Server = http://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
+#RANK: 1.375
+Server = http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
+#RANK: 1.369
+Server = https://mirror.fluxent.de/archlinux/$repo/os/$arch
+#RANK: 1.368
+Server = http://mirror.digistar.vn/archlinux/$repo/os/$arch
+#RANK: 1.366
+Server = http://f.archlinuxvn.org/archlinux/$repo/os/$arch
+#RANK: 1.365
+Server = http://mirror.yandex.ru/archlinux/$repo/os/$arch
+#RANK: 1.363
+Server = https://mirror.f4st.host/archlinux/$repo/os/$arch
+#RANK: 1.362
+Server = http://archlinux.cyborg-connect.de/$repo/os/$arch
+#RANK: 1.360
+Server = http://mirror.system.is/arch/$repo/os/$arch
+#RANK: 1.357
+Server = https://fooo.biz/archlinux/$repo/os/$arch
+#RANK: 1.353
+Server = https://arch.jensgutermuth.de/$repo/os/$arch
+#RANK: 1.353
+Server = https://arch.jensgutermuth.de/$repo/os/$arch
+#RANK: 1.350
+Server = https://ftp.heanet.ie/mirrors/ftp.archlinux.org/$repo/os/$arch
+#RANK: 1.347
+Server = https://mirror.bitjungle.info/archlinux/$repo/os/$arch
+#RANK: 1.342
+Server = http://arch.mirrors.pair.com/$repo/os/$arch
+#RANK: 1.331
+Server = http://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch
+#RANK: 1.320
+Server = http://mirrors.rutgers.edu/archlinux/$repo/os/$arch
+#RANK: 1.318
+Server = http://archlinux.mirror.pkern.at/$repo/os/$arch
+#RANK: 1.315
+Server = http://archlinux.dynamict.se/$repo/os/$arch
+#RANK: 1.309
+Server = https://archlinux.my-universe.com/$repo/os/$arch
+#RANK: 1.307
+Server = http://archlinux.beccacervello.it/archlinux/$repo/os/$arch
+#RANK: 1.307
+Server = http://archlinux.beccacervello.it/archlinux/$repo/os/$arch
+#RANK: 1.306
+Server = http://mirrors.theblazehen.com/archlinux/$repo/os/$arch
+#RANK: 1.295
+Server = http://ftp.heanet.ie/mirrors/ftp.archlinux.org/$repo/os/$arch
+#RANK: 1.283
+Server = http://ftp5.gwdg.de/pub/linux/archlinux/$repo/os/$arch
+#RANK: 1.282
+Server = http://mirror.one.com/archlinux/$repo/os/$arch
+#RANK: 1.278
+Server = http://ftp.fau.de/archlinux/$repo/os/$arch
+#RANK: 1.275
+Server = http://archlinux.mirror.root.lu/$repo/os/$arch
+#RANK: 1.275
+Server = http://archlinux.mirror.root.lu/$repo/os/$arch
+#RANK: 1.266
+Server = http://mirror.cinosure.com/archlinux/$repo/os/$arch
+#RANK: 1.263
+Server = http://ftp.uni-hannover.de/archlinux/$repo/os/$arch
+#RANK: 1.263
+Server = http://ftp.uni-hannover.de/archlinux/$repo/os/$arch
+#RANK: 1.245
+Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+#RANK: 1.245
+Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+#RANK: 1.242
+Server = http://mirror.vpsfree.cz/archlinux/$repo/os/$arch
+#RANK: 1.242
+Server = http://mirror.vpsfree.cz/archlinux/$repo/os/$arch
+#RANK: 1.236
+Server = http://mirror.23media.de/archlinux/$repo/os/$arch
+#RANK: 1.232
+Server = http://www.gutscheindrache.com/mirror/archlinux/$repo/os/$arch
+#RANK: 1.232
+Server = http://www.gutscheindrache.com/mirror/archlinux/$repo/os/$arch
+#RANK: 1.232
+Server = http://www.gutscheindrache.com/mirror/archlinux/$repo/os/$arch
+#RANK: 1.222
+Server = http://mirror.digitalnova.at/archlinux/$repo/os/$arch
+#RANK: 1.221
+Server = http://mirror.ibcp.fr/pub/archlinux/$repo/os/$arch
+#RANK: 1.220
+Server = http://mir.archlinux.fr/$repo/os/$arch
+#RANK: 1.220
+Server = http://mir.archlinux.fr/$repo/os/$arch
+#RANK: 1.220
+Server = http://mir.archlinux.fr/$repo/os/$arch
+#RANK: 1.219
+Server = http://fooo.biz/archlinux/$repo/os/$arch
+#RANK: 1.212
+Server = http://mirrors.niyawe.de/archlinux/$repo/os/$arch
+#RANK: 1.212
+Server = http://mirrors.niyawe.de/archlinux/$repo/os/$arch
+#RANK: 1.212
+Server = http://mirrors.niyawe.de/archlinux/$repo/os/$arch
+#RANK: 1.209
+Server = http://k42.ch/mirror/archlinux/$repo/os/$arch
+#RANK: 1.209
+Server = http://k42.ch/mirror/archlinux/$repo/os/$arch
+#RANK: 1.208
+Server = http://mirror.fluxent.de/archlinux/$repo/os/$arch
+#RANK: 1.207
+Server = http://mirror.michael-eckert.net/archlinux/$repo/os/$arch
+#RANK: 1.202
+Server = http://mirror1.shellbot.com/archlinux/$repo/os/$arch
+#RANK: 1.199
+Server = http://mirror.premi.st/archlinux/$repo/os/$arch
+#RANK: 1.199
+Server = http://mirror.premi.st/archlinux/$repo/os/$arch
+#RANK: 1.197
+Server = http://arch.yourlabs.org/$repo/os/$arch
+#RANK: 1.195
+Server = http://burek.archlinux.ba/$repo/os/$arch
+#RANK: 1.191
+Server = http://arch.apt-get.eu/$repo/os/$arch
+#RANK: 1.189
+Server = http://mirror.netcologne.de/archlinux/$repo/os/$arch
+#RANK: 1.189
+Server = http://mirror.netcologne.de/archlinux/$repo/os/$arch
+#RANK: 1.180
+Server = http://mirror.i3d.net/pub/archlinux/$repo/os/$arch
+#RANK: 1.180
+Server = http://mirror.i3d.net/pub/archlinux/$repo/os/$arch
+#RANK: 1.170
+Server = http://mirror.bytemark.co.uk/archlinux/$repo/os/$arch
+#RANK: 1.169
+Server = http://archlinux.mailtunnel.eu/$repo/os/$arch
+#RANK: 1.155
+Server = http://mirrors.netix.net/archlinux/$repo/os/$arch
+#RANK: 1.151
+Server = http://archlinux.mirrors.uk2.net/$repo/os/$arch
+#RANK: 1.139
+Server = http://mirror.grig.io/archlinux/$repo/os/$arch
+#RANK: 1.133
+Server = http://www.mirrorservice.org/sites/ftp.archlinux.org/$repo/os/$arch
+#RANK: 1.132
+Server = http://jordynsblog.tk/packages/archlinux/$repo/os/$arch
+#RANK: 1.131
+Server = http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/$repo/os/$arch
+#RANK: 1.128
+Server = http://ftp.klid.dk/ftp/archlinux/$repo/os/$arch
+#RANK: 1.124
+Server = http://archlinux.honkgong.info/$repo/os/$arch
+#RANK: 1.119
+Server = http://mirror1.htu.tugraz.at/archlinux/$repo/os/$arch
+#RANK: 1.090
+Server = http://mirrors.nic.cz/archlinux/$repo/os/$arch
+#RANK: 1.086
+Server = http://ftp.swin.edu.au/archlinux/$repo/os/$arch
+#RANK: 1.083
+Server = http://archlinux.my-universe.com/$repo/os/$arch
+#RANK: 1.082
+Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
+#RANK: 1.073
+Server = http://mirror.hactar.bz/$repo/os/$arch
+#RANK: 1.054
+Server = http://mirrors.manchester.m247.com/arch-linux/$repo/os/$arch
+#RANK: 1.050
+Server = http://archlinux.mirror.kangaroot.net/$repo/os/$arch
+#RANK: 1.041
+Server = http://www.imegumii.space/arch/$repo/os/$arch
+#RANK: 1.029
+Server = http://mirror.easyname.at/archlinux/$repo/os/$arch
+#RANK: 0.962
+Server = http://mirror.es.its.nyu.edu/archlinux/$repo/os/$arch
+#RANK: 0.945
+Server = http://mirrors.aggregate.org/archlinux/$repo/os/$arch
+#RANK: 0.872
+Server = http://mirror.flipez.de/archlinux/$repo/os/$arch
+#RANK: 0.865
+Server = http://mirror.rit.edu/archlinux/$repo/os/$arch
+#RANK: 0.858
+Server = http://mirrors.acm.wpi.edu/archlinux/$repo/os/$arch
+#RANK: 0.852
+Server = http://mirror.cc.columbia.edu/pub/linux/archlinux/$repo/os/$arch
+#RANK: 0.849
+Server = http://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
+#RANK: 0.846
+Server = https://lug.mtu.edu/archlinux/$repo/os/$arch
+#RANK: 0.839
+Server = http://mirror.vtti.vt.edu/archlinux/$repo/os/$arch
+#RANK: 0.822
+Server = http://mirror.jmu.edu/pub/archlinux/$repo/os/$arch
+#RANK: 0.782
+Server = http://mirror.atlantic.net/archlinux/$repo/os/$arch
+#RANK: 0.781
+Server = http://mirror.kaminski.io/archlinux/$repo/os/$arch
+#RANK: 0.775
+Server = http://cosmos.cites.illinois.edu/pub/archlinux/$repo/os/$arch
+#RANK: 0.772
+Server = http://mirror1.gaw.solutions/arch/$repo/os/$arch
+#RANK: 0.757
+Server = http://mirror.its.dal.ca/archlinux/$repo/os/$arch
+#RANK: 0.755
+Server = http://il.mirrors.linaxe.net/archlinux/$repo/os/$arch
+#RANK: 0.754
+Server = http://mirror.cs.pitt.edu/archlinux/$repo/os/$arch
+#RANK: 0.750
+Server = http://mirror.metrocast.net/archlinux/$repo/os/$arch
+#RANK: 0.744
+Server = http://arch.mirrors.ionfish.org/$repo/os/$arch
+#RANK: 0.737
+Server = http://mirror.ancl.hawaii.edu/linux/archlinux/$repo/os/$arch
+#RANK: 0.722
+Server = http://arch.jellyfish.lol/$repo/os/$arch
+#RANK: 0.715
+Server = http://mirrors.hustunique.com/archlinux/$repo/os/$arch
+#RANK: 0.697
+Server = http://mirror2.gaw.solutions/arch/$repo/os/$arch
+#RANK: 0.695
+Server = https://arch.localmsp.org/arch/$repo/os/$arch
+#RANK: 0.695
+Server = https://arch.localmsp.org/arch/$repo/os/$arch
+#RANK: 0.692
+Server = http://mirror.clibre.uqam.ca/archlinux/$repo/os/$arch
+#RANK: 0.667
+Server = http://mirror.rackspace.com/archlinux/$repo/os/$arch
+#RANK: 0.663
+Server = http://mirror.yellowfiber.net/archlinux/$repo/os/$arch
+#RANK: 0.650
+Server = http://mirror3.gaw.solutions/arch/$repo/os/$arch
+#RANK: 0.647
+Server = https://muug.ca/mirror/archlinux/$repo/os/$arch
+#RANK: 0.644
+Server = http://archlinux.mirror.rafal.ca/$repo/os/$arch
+#RANK: 0.642
+Server = https://kwk.pw/arch/$repo/os/$arch
+#RANK: 0.625
+Server = http://mirrors.liquidweb.com/archlinux/$repo/os/$arch
+#RANK: 0.584
+Server = http://lug.mtu.edu/archlinux/$repo/os/$arch
+#RANK: 0.577
+Server = http://muug.ca/mirror/archlinux/$repo/os/$arch
+#RANK: 0.545
+Server = http://kwk.pw/arch/$repo/os/$arch
+#RANK: 0.536
+Server = https://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
+#RANK: 0.526
+Server = http://ca.us.mirror.archlinux-br.org/$repo/os/$arch
+#RANK: 0.525
+Server = https://mirror.lty.me/archlinux/$repo/os/$arch
+#RANK: 0.503
+Server = http://mirrors.xmission.com/archlinux/$repo/os/$arch
+#RANK: 0.497
+Server = http://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
+#RANK: 0.487
+Server = http://arch.localmsp.org/arch/$repo/os/$arch
+#RANK: 0.483
+Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
+#RANK: 0.449
+Server = http://mirror.htnshost.com/archlinux/$repo/os/$arch
+#RANK: 0.435
+Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
+#RANK: 0.423
+Server = http://mirrors.kernel.org/archlinux/$repo/os/$arch
+#RANK: 0.420
+Server = http://mirror.lty.me/archlinux/$repo/os/$arch
+#RANK: 0.390
+Server = http://archlinux.cu.be/$repo/os/$arch
+#RANK: 0.379
+Server = http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
+#RANK: 0.375
+Server = http://mirrors.cat.pdx.edu/archlinux/$repo/os/$arch
