@@ -1,6 +1,0 @@
-"This is the configuration file I use throughout my linux machines for vimb
-:set smooth-scrolling
-:set download-path=~/Downloads
-:set home-page=www.google.com
-:shortcut-add g=https://www.google.com/search?q=$0
-:shortcut-default g
