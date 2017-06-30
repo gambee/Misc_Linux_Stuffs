@@ -1,9 +1,0 @@
-#!/usr/bin/gawk -f
-#Author: Max Gambee
-#email: max.a.gambee@gmail.com
-#This takes the commented mirrorlist.pacnew file and ucomments and ouputs
-#all of the "Server = http..." lines to stdout for parsing by sort_mirrors
-
-{ 	if(match($0, /Server.*arch/))
-		printf("%s\n", substr($i, RSTART, RLENGTH));
-}
