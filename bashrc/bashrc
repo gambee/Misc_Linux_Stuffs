@@ -25,7 +25,6 @@ recovery-pacman() {
 #Author name="Max Gambee"
 #My_Aliases
 
-alias vimb='tabbed -c vimb -c ~/.vimb/vimbrc -e' #sets up a tabbed vimb browsin session with config
 alias rvim='sudo -E vim' #shortcut for editing protected files
 
 	#starts a vifm (file browser) session in the current directory,
