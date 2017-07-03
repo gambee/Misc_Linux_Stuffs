@@ -1,0 +1,24 @@
+#! /bin/gawk -f
+#Author: Max Gambee
+#Email: max.a.gambee@gmail.com
+
+#This script parses the output of 'rankmirrors -t [MIRRORFILE]'
+#and prints to stdout the mirrors listed in order of response time
+#in the format that pacman requires to read mirrors
+
+BEGIN{
+	FS=" : ";
+	ind=0;
+}
+
+$2 ~ /[0-9]+(\.[0-9]+)?/ {
+	server[$2]=$1;
+	rank[ind]=$2;
+	++ind;
+}
+
+END{
+	if(ind)
+		for(i=ind-1;i>=0;i--)
+			printf("#RANK: %s\nServer = %s\n",rank[i], server[rank[i]]);
+}
