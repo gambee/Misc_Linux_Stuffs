@@ -25,6 +25,9 @@ recovery-pacman() {
 #Author name="Max Gambee"
 #My_Aliases
 
+#local .bin folder added to path
+PATH=$PATH":~/.bin"
+
 alias rvim='sudo -E vim' #shortcut for editing protected files
 
 	#starts a vifm (file browser) session in the current directory,
@@ -32,6 +35,7 @@ alias rvim='sudo -E vim' #shortcut for editing protected files
 	#pane left off last time, and when the vifm session ends, the 
 	#bash session will be left in the last visited directory of vifm
 alias vifm='vifm --choose-dir - . >~/.vifm/lastDir; cd $(cat ~/.vifm/lastDir)' 
+alias sl= 'sl -c' #Steam Locomative Gag
 alias ls='ls --color=auto'
 alias la='ls -a'
 alias bat='acpi -i'

@@ -1,0 +1,62 @@
+# ~/.bashrc
+# Maintainer: Max Gambee
+# email: max.a.gambee@gmail.com
+
+# This configuration file contains code that has been authored by myself, as well as
+# code that has been authored by others. All of my code is placed between the tags 
+# '#Author name="Max Gambee"' and '#/Author'. Similarly, my code is furthor organized
+# into subsections i.e. aliases and functions I have written/added are infixed between
+# '#My_Aliases' and '#/My_Aliases' and '#My_Functions' and '#/My_Functions' respectively
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+recovery-pacman() {
+    pacman "$@"       \
+    --log /dev/null   \
+    --noscriptlet     \
+    --dbonly          \
+    --force           \
+    --nodeps          \
+    --needed          \
+    #
+}
+
+#Author name="Max Gambee"
+#My_Aliases
+
+#Local 'home' .bin folder added to path
+PATH=$PATH":~/.bin"
+
+alias rvim='sudo -E vim' #shortcut for editing protected files
+
+	#starts a vifm (file browser) session in the current directory,
+	#the second pane if user splits, will start wherever the second
+	#pane left off last time, and when the vifm session ends, the 
+	#bash session will be left in the last visited directory of vifm
+alias vifm='vifm --choose-dir - . >~/.vifm/lastDir; cd $(cat ~/.vifm/lastDir)' 
+alias ls='ls --color=auto'
+alias la='ls -a'
+alias bat='acpi -i'
+	#extracts the first regex match for an ip address from stdin, prints it to stdout
+	#great for network debugging
+alias x_ip="grep -o -m 1 '[1-9]\{1,3\}\.[1-9]\{1,3\}\.[1-9]\{1,3\}\.[1-9]\{1,3\}'" 
+alias hibernate='systemctl hibernate' #suspend to disk
+alias suspend='systemctl hibernate' #don't use, but just protects me, makes 'systemctl suspend' unreachable
+alias reboot='systemctl reboot'
+alias shutdown='systemctl poweroff'
+#/My_Aliases
+
+#My_Functions
+function follow()
+{	#This function takes a url as an argument and prints its resolved ip to stdout
+	#Usage: follow [URL]
+	#Dependencies: alias: ping, grep
+	ip_reg_exp='[1-9]\{1,3\}\.[1-9]\{1,3\}\.[1-9]\{1,3\}\.[1-9]\{1,3\}'
+	ping -c 1 -W 1 $1 | grep -o -m 1 $ip_reg_exp
+}
+#/My_Functions
+#/Author
+
+
+PS1='[\u@\h \W]\$ '

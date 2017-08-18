@@ -1,2 +1,2 @@
-# Misc Linux Stuffs
-A hodgepodge of one-off scripts, configuration files, and other miscellanea 
+# Miscellaneous Linux Stuffs
+This contains various configuration files and other snippets of my arch linux configuration.
